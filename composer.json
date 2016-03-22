@@ -1,0 +1,18 @@
+{
+	"name": "afelicioni/codeigniter-recaptcha",
+	"description": "Recaptcha quick integration into CodeIgniter",
+	"type": "afelicioni-codeigniter",
+	"require": {
+		"php": ">=5.3.0",
+		"afelicioni/codeigniter-installer-plugin": "*"
+	},
+	"minimum-stability": "dev",
+	"extra": {
+		"target-path": ".",
+		"setup-files": [
+			["config/Recaptcha.php", "application/config/Recaptcha.php"],
+			["libraries/Recaptcha.php", "application/libraries/Recaptcha.php"],
+			["controllers/Recaptcha.php", "application/controllers/Recaptcha.php"]
+		]
+	}
+}
