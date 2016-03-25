@@ -4,7 +4,7 @@
 	"type": "afelicioni-codeigniter",
 	"require": {
 		"php": ">=5.3.0",
-		"afelicioni/codeigniter-installer-plugin": "*"
+		"afelicioni/codeigniter-installer-plugin": ">=0.2.0"
 	},
 	"minimum-stability": "dev",
 	"extra": {
