@@ -1,5 +1,7 @@
 # codeigniter-recaptcha
 
+[![Latest Stable Version](https://poser.pugx.org/afelicioni/codeigniter-recaptcha/v/stable)](https://packagist.org/packages/afelicioni/codeigniter-recaptcha) [![Total Downloads](https://poser.pugx.org/afelicioni/codeigniter-recaptcha/downloads)](https://packagist.org/packages/afelicioni/codeigniter-recaptcha) [![Latest Unstable Version](https://poser.pugx.org/afelicioni/codeigniter-recaptcha/v/unstable)](https://packagist.org/packages/afelicioni/codeigniter-recaptcha) [![License](https://poser.pugx.org/afelicioni/codeigniter-recaptcha/license)](https://packagist.org/packages/afelicioni/codeigniter-recaptcha)
+
 Little package to get [recaptcha][5] working on [codeigniter][1]
 
 ## prerequisites
@@ -63,7 +65,7 @@ Strict check for IP address
 
 ## extra
 
-by Alessio Felicioni | [Github](https://github.com/afelicioni)
+by [Alessio Felicioni](http://www.alessiofelicioni.it/) | [Github](https://github.com/afelicioni)
 
 [1]: http://www.codeigniter.com/
 [2]: https://developers.google.com/recaptcha/
